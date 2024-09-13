@@ -1,4 +1,6 @@
 Recipe Search Platform
+
+
 Project Description and Objectives
 The Recipe Search Platform is a full-stack web application that allows users to search for various recipes by name. The application is built with React.js for the frontend, while the backend (implemented with a Python framework) handles search functionality using OpenSearch for efficient recipe retrieval. The platform provides a clean, user-friendly interface where users can search, view, and explore detailed recipe information, including ingredients, directions, and nutritional information. The main goal is to help users find recipes quickly and easily while offering an intuitive browsing experience.
 
@@ -76,11 +78,4 @@ Backend:
 Python (with Flask/Django/FastAPI): Handles recipe search queries and serves data to the frontend.
 OpenSearch: A search engine based on Elasticsearch, used for indexing and searching recipe data.
 
-Other Tools:
-Git: Version control system for project collaboration.
-Node.js: Runtime for executing JavaScript code and managing frontend dependencies.
-
-Future Improvements
-Add user authentication to allow users to save favorite recipes.
-Implement additional filters for searching based on dietary preferences (e.g., vegan, gluten-free).
-Enhance the recipe data to include images and cooking videos.
+Youtube: https://youtu.be/MHwA4PsBUbE
