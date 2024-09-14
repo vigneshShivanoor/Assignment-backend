@@ -35,7 +35,8 @@ Make sure your backend server is running:
 
 bash
 Copy code
-python main1.py
+python main2
+.py
 This will start the backend server at http://localhost:8000/.
 
 3. Frontend Setup:
